@@ -48,7 +48,7 @@
 			
 			<script>
 		swal({
-			title:"merhaba hocam",
+			title:"merhaba",
 			text:"MAİL ADRESİ=test@gmail.com || PAROLA=test",
 			icon:"success",
 			button:"tamam"
